@@ -2,9 +2,9 @@
 FinalSpeed是高速双边加速软件,可加速所有基于tcp协议的网络服务,在高丢包和高延迟环境下,仍可达到90%的物理带宽利用率,即使高峰时段也能轻松跑满带宽.
 
 ### 安装教程
-[客户端安装说明](https://www.91yun.org/archives/615)
+[客户端安装说明](http://www.maskviral.com/finalspeed-ssr-onekey-tutorials.html)
 <br />
-[服务端安装说明](http://www.91yun.org/archives/2775)
+[服务端安装说明](http://www.maskviral.com/finalspeed-ssr-onekey-tutorials.html)
 
 ### 说明
 
